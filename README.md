@@ -1,4 +1,4 @@
-# eightball
+# eightball [![Build Status](https://travis-ci.org/sriramswamy/eightball.svg?branch=master)](https://travis-ci.org/sriramswamy/eightball)
 
 > Get 8-ball predictions
 
