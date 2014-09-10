@@ -1,15 +1,15 @@
 {
   "name": "eightball",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get 8-ball predictions",
   "license": "MIT",
-  "repository": "srswaminathan/eightBall",
+  "repository": "sriramswamy/eightBall",
   "bin": {
     "eightBall": "cli.js"
   },
   "author": {
     "name": "Sriram Swaminathan",
-    "email": "srswaminathan@gmail.com"
+    "email": "sriramswamy@gmail.com"
   },
   "engines": {
     "node": ">=0.10.0"
