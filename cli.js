@@ -9,7 +9,7 @@ function help() {
 		pkg.description,
 		'',
 		'Example',
-		'  $ eightBall',
+		'  $ eightball',
 		'  legendary'
 	].join('\n'));
 }
