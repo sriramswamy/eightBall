@@ -10,7 +10,7 @@ function help() {
 		'',
 		'Example',
 		'  $ eightball',
-		'  legendary'
+		'  Without a doubt'
 	].join('\n'));
 }
 
