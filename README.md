@@ -1,4 +1,4 @@
-# eightBall
+# eightball
 
 > Get 8-ball predictions
 
@@ -8,14 +8,14 @@ The predictions itself is just a [JSON file](predictions.json) and can be used w
 ## Install
 
 ```sh
-$ npm install --save eightBall
+$ npm install --save eightball
 ```
 
 
 ## Usage
 
 ```js
-var predict = require('eightBall');
+var predict = require('eightball');
 
 predict();
 //=> Without a doubt
@@ -30,13 +30,13 @@ predict.predictions;
 ## CLI
 
 ```sh
-$ npm install --global eightBall
+$ npm install --global eightball
 ```
 
 ```sh
-$ eightBall --help
+$ eightball --help
 
 Example
-  $ eightBall
+  $ eightball
   Without a doubt
 ```
