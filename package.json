@@ -1,0 +1,41 @@
+{
+  "name": "eightball",
+  "version": "1.0.1",
+  "description": "Get 8-ball predictions",
+  "license": "MIT",
+  "repository": "sriramswamy/eightBall",
+  "bin": {
+    "eightBall": "cli.js"
+  },
+  "author": {
+    "name": "Sriram Swaminathan",
+    "email": "sriramswamy@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js",
+    "cli.js",
+    "predictions.json"
+  ],
+  "keywords": [
+    "cli",
+    "bin",
+    "eightBall",
+    "prediction",
+    "predictions",
+    "array",
+    "random",
+    "rand"
+  ],
+  "dependencies": {
+    "minimist": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.4"
+  }
+}
